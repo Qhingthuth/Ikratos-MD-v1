@@ -39,7 +39,7 @@
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo (Don't forget to give a star)
-- 2. ***Get [SESSION-ID](https://replit.com/@xIKRATOSx/scanner?v=1?outputonly=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 2. ***Get [SESSION-ID](http://ikratos-md-web.xikratosx.repl.co) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
 
